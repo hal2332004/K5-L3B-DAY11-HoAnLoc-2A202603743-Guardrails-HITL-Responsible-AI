@@ -1,5 +1,10 @@
 # Day 11 — Controlled Agent Security (2026)
 
+- **Học viên:** Hồ An Lộc
+- **MSSV:** 2A202603743
+- **Lớp:** K5-L3B
+- **Repo nộp:** `K5-L3B-DAY11-HoAnLoc-2A202603743-Guardrails-HITL-Responsible-AI`
+
 > 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
 > 🎯 **Mục tiêu:** đóng vai **Blue Team** để học cách xây Guardrails phòng thủ, rồi đóng vai **Red Team** để tấn công agent **Red** hoặc **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
